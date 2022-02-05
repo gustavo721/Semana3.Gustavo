@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VariasVentanas</string>
+    <string name="Nombre">Escriba su Nombre:</string>
+    <string name="Enviar">Enviar Dato</string>
+
+    <string name="MostrarDato">Dato Recibido</string>
+    <string name="Volver">Volver</string>
+
+</resources>
